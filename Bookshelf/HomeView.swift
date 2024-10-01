@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+//TODO: Navigation Link
+
 struct HomeView: View {
     
     @State var books: [BookModel] = [BookModel(title: "Harry Porter", author: "J.K. Rowling", rating: 4.8), BookModel(title: "Lord Of The Rings", author: "Robert Tolkien", rating: 4.0)]
